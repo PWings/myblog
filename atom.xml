@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://gitee.com/pwings</id>
     <title>wings</title>
-    <updated>2020-07-04T03:56:22.875Z</updated>
+    <updated>2020-07-04T04:06:02.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://gitee.com/pwings"/>
     <link rel="self" href="https://https://gitee.com/pwings/atom.xml"/>
@@ -10,6 +10,57 @@
     <logo>https://https://gitee.com/pwings/images/avatar.png</logo>
     <icon>https://https://gitee.com/pwings/favicon.ico</icon>
     <rights>All rights reserved 2020, wings</rights>
+    <entry>
+        <title type="html"><![CDATA[JVM与java体系结构]]></title>
+        <id>https://https://gitee.com/pwings/post/一 JVM与java体系结构/</id>
+        <link href="https://https://gitee.com/pwings/post/一 JVM与java体系结构/">
+        </link>
+        <updated>2020-07-04T04:01:15.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="jvm知识体系">JVM知识体系</h3>
+<p><img src="https://https://gitee.com/pwings/post-images/1593835353557.png" alt="" loading="lazy"><br>
+推荐书<br>
+<a href='/files/jvm/深入理解Java虚拟机：JVM高级特性与最佳实践（第3版） (华章原创精品) - 周志明.pdf'>深入理解Java虚拟机：JVM高级特性与最佳实践（第3版） (华章原创精品) - 周志明.pdf</a><br>
+官网说明<br>
+<a href='https://docs.oracle.com/javase/8/'>https://docs.oracle.com/javase/8/</a></p>
+<h3 id="跨平台的语言java和跨语言的平台jvm">跨平台的语言Java和跨语言的平台JVM</h3>
+<h4 id="跨平台的语言java">跨平台的语言Java</h4>
+<figure data-type="image" tabindex="1"><img src="https://https://gitee.com/pwings/post-images/1593835369333.png" alt="" loading="lazy"></figure>
+<h4 id="跨语言的平台jvm">跨语言的平台JVM</h4>
+<p><img src="https://https://gitee.com/pwings/post-images/1593835511063.png" alt="" loading="lazy"><br>
+符合java虚拟机规范的语言都能在java虚拟机上运行，目前的规范是JSR-292规范</p>
+<h3 id="虚拟机和java虚拟机">虚拟机和Java虚拟机</h3>
+<h4 id="java虚拟机特点">java虚拟机特点</h4>
+<ul>
+<li>一次编译到处运行</li>
+<li>自动的内存管理</li>
+<li>自动的垃圾回收</li>
+</ul>
+<h3 id="jvm的位置">JVM的位置</h3>
+<p><img src="https://https://gitee.com/pwings/post-images/1593835458691.png" alt="" loading="lazy"><br>
+<strong>jvm编译字节码文件成操作系统识别的机器指令</strong></p>
+<h3 id="jvm的整体结构">JVM的整体结构</h3>
+<p>以 HotSpot 虚拟机为例<br>
+<img src="https://https://gitee.com/pwings/post-images/1593835478787.png" alt="" loading="lazy"><br>
+可分为三部分</p>
+<h4 id="类的字节码类加载器">类的字节码，类加载器</h4>
+<h4 id="运行时的数据区">运行时的数据区</h4>
+<p>方法区和推是线程间共享的</p>
+<h4 id="执行引擎">执行引擎</h4>
+<pre><code>解释器（interpreter）--解释执行
+JIT编译器（JIT）-- 编译运行
+垃圾回收器
+</code></pre>
+<h3 id="java代码执行的流程">Java代码执行的流程</h3>
+<figure data-type="image" tabindex="2"><img src="https://https://gitee.com/pwings/post-images/1593835493595.png" alt="" loading="lazy"></figure>
+<h3 id="jvm的架构模型">JVM的架构模型</h3>
+<p>JVM编译器输入的指令流基本上是基于栈的指令架构，还有一种是基于寄存器的指令架构</p>
+<h4 id="这两种架构的区别">这两种架构的区别</h4>
+<ul>
+<li>栈  与硬件的耦合度底，移植性强</li>
+<li>寄存器  相当与某种硬件的定制版，特定硬件上面性能高，移植性差</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[道德十三条]]></title>
         <id>https://https://gitee.com/pwings/post/道德十三条/</id>
