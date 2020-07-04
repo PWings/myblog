@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://gitee.com/pwings</id>
     <title>wings</title>
-    <updated>2020-07-04T03:53:36.088Z</updated>
+    <updated>2020-07-04T03:56:22.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://gitee.com/pwings"/>
     <link rel="self" href="https://https://gitee.com/pwings/atom.xml"/>
@@ -10,6 +10,57 @@
     <logo>https://https://gitee.com/pwings/images/avatar.png</logo>
     <icon>https://https://gitee.com/pwings/favicon.ico</icon>
     <rights>All rights reserved 2020, wings</rights>
+    <entry>
+        <title type="html"><![CDATA[道德十三条]]></title>
+        <id>https://https://gitee.com/pwings/post/道德十三条/</id>
+        <link href="https://https://gitee.com/pwings/post/道德十三条/">
+        </link>
+        <updated>2020-06-28T15:35:00.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="道德十三条">道德十三条</h3>
+<p>1726年富兰克林20岁，试图总结出道德十三条，并在日后实践。在自传中，他列出：</p>
+<ol>
+<li>
+<h4 id="节制食不过饱饮不过量">“节制：食不过饱，饮不过量；”</h4>
+</li>
+<li>
+<h4 id="节言于人于己不利的话不说避免琐碎的闲聊">“节言：于人于己不利的话不说，避免琐碎的闲聊；”</h4>
+</li>
+<li>
+<h4 id="秩序物件有所归办事有定时">“秩序：物件有所归，办事有定时；”</h4>
+</li>
+<li>
+<h4 id="决心该做的事情一定要做决心要做的事情一定要做好">“决心：该做的事情一定要做，决心要做的事情一定要做好；”</h4>
+</li>
+<li>
+<h4 id="节俭花钱要于人于已有利决不浪费">“节俭：花钱要于人于已有利，决不浪费；”</h4>
+</li>
+<li>
+<h4 id="勤劳珍惜时间-时间要花在做有用的事情上力戒无意义的举动">“勤劳：珍惜时间， 时间要花在做有用的事情上，力戒无意义的举动；”</h4>
+</li>
+<li>
+<h4 id="诚实力戒虚伪欺诈心存良知与公正说话亦如此">“诚实：力戒虚伪欺诈，心存良知与公正，说话亦如此；”</h4>
+</li>
+<li>
+<h4 id="正直不做有损他人的事情要做对人们有益的事情这是你的义务">“正直：不做有损他人的事情，要做对人们有益的事情，这是你的义务；”</h4>
+</li>
+<li>
+<h4 id="中庸不走极端-别人对你的冒犯-若是正当就要善于容忍">“中庸：不走极端， 别人对你的冒犯， 若是正当，就要善于容忍；”</h4>
+</li>
+<li>
+<h4 id="整洁身体-衣物以及住所要保持清洁">“整洁：身体、衣物以及住所，要保持清洁；”</h4>
+</li>
+<li>
+<h4 id="宁静对待琐事-平常事或者不可避免之事不可自扰">“宁静：对待琐事、平常事或者不可避免之事，不可自扰；”</h4>
+</li>
+<li>
+<h4 id="贞节不要纵欲过度有伤身体切忌损害自己或者他人的安宁和名誉">“贞节：不要纵欲过度，有伤身体，切忌损害自己或者他人的安宁和名誉；”</h4>
+</li>
+<li>
+<h4 id="谦虚仿效耶稣与苏格拉底">“谦虚：仿效耶稣与苏格拉底。”</h4>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://https://gitee.com/pwings/post/hello-gridea/</id>
